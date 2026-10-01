@@ -1,0 +1,14 @@
+Id,Data e hora,Motivo,Observa��es,Status,Id paciente,Id m�dico
+1,25/08/2026 09:00,Consulta de rotina,Nenhuma,Realizada,1,1
+2,25/08/2026 10:00,Avalia��o card�aca,Solicitar exames,Realizada,3,2
+3,25/08/2026 14:00,Avalia��o da pele,Manchas recentes,Realizada,5,3
+4,26/08/2026 08:30,Consulta de rotina,Acompanhamento,Agendada,4,1
+5,26/08/2026 10:00,Consulta pedi�trica,Retorno,Agendada,2,4
+6,26/08/2026 14:30,Avalia��o dermatol�gica,Acompanhamento,Agendada,6,3
+7,27/08/2026 09:00,Consulta de rotina,Nenhuma,Agendada,7,1
+8,27/08/2026 11:00,Avalia��o card�aca,Press�o arterial,Agendada,8,2
+9,28/08/2026 15:00,Consulta de rotina,Nenhuma,Agendada,9,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

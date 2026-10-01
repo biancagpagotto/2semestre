@@ -1,0 +1,22 @@
+Ctrl " = abre o terminal
+escrever exit = sair do terminal
+Ctrl S = salvar
+clear = limpa a tela
+Ctrl C = destrava o programa
+console.log = escrever
+node nome do programa = executar
+concatenação = não soma e sim junta (ex:2+2=22)
+let = para definir variáveis (da pra modificar)
+const = uma constante (não da pra mudar)
+string = cadeia de caracteres 
+== : Igualdade
+!= : Diferente
+=== : Estritamente igual
+!== Estritamente diferente
+
+Comandos
+npm init : Inicializa Projeto JS
+npm install express
+npm install cors
+
+npm install express cors: instala dependências no projeto

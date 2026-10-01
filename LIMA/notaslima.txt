@@ -1,0 +1,20 @@
+br : espaço em branco
+li : para fazer lista
+ul : lista de bolinha
+ol :lista de número
+<!-- : comentários(não aparecem no site, só na programação)
+body : conteúdo do site
+font color "
+p : parágrafo
+code . no terminal do arquivo: abre o vs code
+b : texto em negrito
+i : texto em itálico
+sup : texto menor e elevado
+sub : texto menor e rebaixado 
+ins : texto sublinhado
+del : texto riscado
+mark : texto grifado
+img : colocar imagem
+scr : procurar na web
+a : referencia
+seleciona o texto Ctrl ; : fazer comentário

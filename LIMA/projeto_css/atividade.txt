@@ -1,0 +1,6 @@
+1- Crie um site para um comércio (loja, mercado, etc) realizando as seguintes etapas:
+- HTML
+- CSS
+- Protótipo (esqueleto do CSS)
+
+Ao concluir, coloque em um repositório do GitHub e mande no e-mail do professor Robson

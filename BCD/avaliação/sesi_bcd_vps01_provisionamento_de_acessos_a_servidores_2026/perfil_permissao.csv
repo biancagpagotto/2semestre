@@ -1,0 +1,4 @@
+id_perfil,nome,descricao,nivel_acesso
+1,Administrador,Acesso total ao servidor,Alto
+2,Desenvolvedor,Acesso para desenvolvimento e manutenção,Médio
+3,Leitor,Acesso somente para consulta,Baixo

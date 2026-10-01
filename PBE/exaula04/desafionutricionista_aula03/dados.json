@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "data": "27/08/2026",
+        "paciente": "Isabela",
+        "peso": 47,
+        "altura": 1.53
+    },
+    {
+        "id": 2,
+        "data": "28/08/2026",
+        "paciente": "Marina",
+        "peso": 54,
+        "altura": 1.56
+    },
+    {
+        "id": 3,
+        "data": "29/08/2026",
+        "paciente": "Helena",
+        "peso": 70,
+        "altura": 1.67
+    },
+    {
+        "id": 4,
+        "data": "29/08/2026",
+        "paciente": "Sofia",
+        "peso": 56,
+        "altura": 1.71
+    }
+]

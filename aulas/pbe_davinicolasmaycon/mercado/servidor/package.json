@@ -1,0 +1,19 @@
+{
+  "name": "produtos_mercado",
+  "version": "1.0.0",
+  "description": "Exemplo de produtos do mercado e clientes",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node servidor/server.js"
+  },
+  "keywords": [
+    "mercado",
+    "produtos"
+  ],
+  "author": "biancagpagotto",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usuários</title>
+</head>
+<body>
+    <h1>Manutenção de usuários do sistema interno</h1>
+    
+    <form>
+        <label>Login</label>
+        <input type = "text"/><br><br>
+
+        <label>Senha</label>
+        <input type = "password"/><br><br>
+
+        <label>Status</label>
+        <select id = "status">
+            <option>Inativo</option>
+            <option>Ativo</option>
+        </select><br><br>
+
+        <legend>Tipo</legend>
+            <input type="radio" name = "tipo"/>
+            <label>Técnico</label>
+            <input type="radio" name = "tipo"/>
+            <label>Professor</label>
+            <input type="radio" name = "tipo"/>
+            <label>Aluno</label><br><br>
+
+
+        <label>Data Criação</label>
+        <input type = "date"/><br><br>
+        
+        <legend>Perfil</legend>
+            <input type="radio" name = "Perfil"/>
+            <label>Convidado</label>
+            <input type="radio" name = "Perfil"/>
+            <label>Administrador</label>
+        <br><br>
+
+        <label>Observações</label>
+        <textarea id = "info"></textarea><br><br>
+
+        <legend>Módulos</legend>
+            <input type = "checkbox" id = "compras"/>
+            <label>Compras</label>
+            <input type = "checkbox" id = "biblioteca"/>
+            <label>Biblioteca</label>
+            <input type = "checkbox" id = "academico"/>
+            <label>Acadêmico</label>
+            <input type = "checkbox" id = "documentacao"/>
+            <label>Documentação</label>
+            <input type = "checkbox" id = "recursos humanos"/>
+            <label>Recursos humanos</label>
+
+        <br><br>
+        <input type = "submit" value="Cadastrar"/>
+        <input type = "reset" value="Excluir"/>
+    </form>
+
+</body>
+</html>

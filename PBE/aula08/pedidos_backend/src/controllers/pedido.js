@@ -1,0 +1,10 @@
+const pedidos = require("../../dados/clientes.json");
+
+const criar = (req, res) => { res.json("Em construção") }
+const listar = (req, res) => { res.json("Em construção") }
+const alterar = (req, res) => { res.json("Em construção") }
+const excluir = (req, res) => { res.json("Em construção") }
+
+module.exports = {
+    criar, listar, alterar, excluir
+}

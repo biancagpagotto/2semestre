@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cidade": "Campinas",
+        "tipo_evento": "Onda de calor",
+        "temperatura_maxima": 38.7,
+        "data": "2026-09-23",
+        "nivel_impacto": "Alto"
+    },
+    {
+        "id": 2,
+        "cidade": "Amparo",
+        "tipo_evento": "Enchente",
+        "temperatura_maxima": 26.5,
+        "data": "2026-09-20",
+        "nivel_impacto": "Alto"
+    },
+    {
+        "id": 3,
+        "cidade": "Jundiaí",
+        "tipo_evento": "Tempestade",
+        "temperatura_maxima": 29.4,
+        "data": "2026-09-18",
+        "nivel_impacto": "Médio"
+    },
+    {
+        "id": 4,
+        "cidade": "Itatiba",
+        "tipo_evento": "Seca",
+        "temperatura_maxima": 34.2,
+        "data": "2026-09-15",
+        "nivel_impacto": "Médio"
+    },
+    {
+        "id": 5,
+        "cidade": "Bragança Paulista",
+        "tipo_evento": "Granizo",
+        "temperatura_maxima": 24.5,
+        "data": "2026-09-10",
+        "nivel_impacto": "Baixo"
+    }
+]

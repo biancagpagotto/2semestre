@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    margin:0;
+    background-image: url(homem-aranha-tobey-tom-andrew.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+li{
+    list-style: none;
+}

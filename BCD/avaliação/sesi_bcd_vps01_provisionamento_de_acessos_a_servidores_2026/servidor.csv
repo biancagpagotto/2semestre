@@ -1,0 +1,4 @@
+id,nome,hostname,ip,sistema_operacional,ambiente
+1,Servidor Web,SRV-WEB-01,192.168.1.10,Linux,Produção
+2,Servidor Banco,SRV-DB-01,192.168.1.20,Linux,Produção
+3,Servidor Testes,SRV-TESTE-01,192.168.1.30,Windows Server,Testes

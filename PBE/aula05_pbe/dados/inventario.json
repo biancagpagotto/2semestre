@@ -1,0 +1,18 @@
+[
+    {
+        "item": "Ventilador Grande",
+        "local": "Sala C",
+        "dataRegistro": "2026-09-12",
+        "valor": 220,
+        "patrimonio": "004",
+        "id": 1
+    },
+    {
+        "item": "Impressora",
+        "local": "Secretaria",
+        "dataRegistro": "2026-09-10",
+        "valor": 650,
+        "patrimonio": "003",
+        "id": 3
+    }
+]

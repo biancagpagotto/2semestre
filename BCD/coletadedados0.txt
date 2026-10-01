@@ -1,0 +1,36 @@
+1 -
+Dados: Helena Politti Rossi, 03/02/2010
+Informação: 16
+
+2 -
+Dados: Gustavo Ferelli, 23/03/2010
+Informação: 16
+
+3 -
+Dados: Giuseppe de Moraes Vieira, 21/12/2009
+Informação: 16
+
+JSON
+[
+   {   
+       "nome": "Helena Politti Rossi",
+       "nascimento": "2010-02-03",
+       "idade": 16,
+   },
+   {   
+       "nome": "Gustavo Ferelli",
+       "nascimento": "2010-03-23",
+       "idade": 16,
+   },
+   {   
+       "nome": "Giuseppe de Moraes Vieira",
+       "nascimento": "2009-12-21",
+       "idade": 16,
+   }
+]
+
+CSV
+nome,data_nascimento,informacao
+Helena Politti Rossi,03/02/2010,16
+Gustavo Ferelli,23/03/2010,16
+Giuseppe de Moraes Vieira,21/12/2009,16

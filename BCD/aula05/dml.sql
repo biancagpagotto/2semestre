@@ -1,0 +1,5 @@
+LOAD DATA INFILE 'C:/Users/Bianca/Desktop/SENAI/2semestre/BCD/aula05/pedidos.csv'
+INTO TABLE pedidos
+FIELDS TERMINATED BY ';'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;

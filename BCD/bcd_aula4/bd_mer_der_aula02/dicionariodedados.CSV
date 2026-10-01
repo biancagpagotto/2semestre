@@ -1,0 +1,21 @@
+|Entidade|Atributo|Tipo|Tamanho|Descri��o|||
+|Paciente|id_paciente|int|11|Chave prim�ria do paciente|||
+|Paciente|nome|varchar|50|Nome do paciente|||
+|Paciente|data_nascimento|date|-|Data de nascimento do paciente|||
+|Paciente|sexo|char|1|Sexo do paciente (M/F)|||
+|Paciente|telefone|varchar|15|Telefone para contato do paciente|||
+|Paciente|email|varchar|100|E-mail do paciente|||
+|Paciente|endereco|varchar|200|Endere�o residencial do paciente|||
+|Consulta|id_consulta|int|11|Chave prim�ria da consulta|||
+|Consulta|data_hora|datetime|-|Data e hor�rio da consulta|||
+|Consulta|motivo|varchar|200|Motivo da consulta|||
+|Consulta|observacoes|varchar|500|Observa��es da consulta|||
+|Consulta|status|varchar|15|Situa��o da consulta|||
+|Consulta|id_paciente|int|11|Chave estrangeira refer�ncia Paciente(id_paciente)|||
+|Consulta|id_medico|int|11|Chave estrangeira refer�ncia Medico(id_medico)|||
+|M�dico|id_medico|int|11|Chave prim�ria do m�dico|||
+|M�dico|nome|varchar|50|Nome completo do m�dico|||
+|M�dico|especialidade|varchar|50|Especialidade do m�dico|||
+|M�dico|crm|varchar|20|Registro do m�dico no CRM|||
+|M�dico|telefone|varchar|15|Telefone para contato do m�dico|||
+|M�dico|email|varchar|100|E-mail do m�dico|||

@@ -1,0 +1,47 @@
+Crystal
+
+Slide 1
+O que é
+Família de metodologias ágeis
+Criada por Alistair Cockburn
+Prioriza pessoas, comunicação e entregas frequentes
+Características
+Pessoas em primeiro lugar
+Comunicação constante e direta
+Entregas frequentes de software funcional
+Pouca documentação, apenas o necessário
+Melhoria contínua e adaptação às mudanças
+Qualidade técnica para garantir um produto confiável
+
+Slide 2
+Família Crystal
+A Crystal possui diferentes métodos, adaptados ao tamanho e à complexidade da equipe.
+Família Crystal:
+Crystal Clear → equipes pequenas
+Crystal Yellow → equipes um pouco maiores
+Crystal Orange → projetos de maior complexidade
+Crystal Red → equipes e projetos ainda maiores
+Ideia principal: quanto maior e mais complexo o projeto, maior a necessidade de processos e comunicação estruturados.
+
+Slide 3
+Vantagens / desvantagens
+✅ Vantagens
+Comunicação mais eficiente
+Fácil adaptação
+Entregas rápidas
+Menos burocracia
+❌ Desvantagens
+Depende da comunicação da equipe
+Difícil para equipes muito grandes
+Menor quantidade de documentação pode gerar problemas
+
+Slide 4
+Quando utilizar / exemplo prático
+- Quando utilizar?
+Projetos que precisam de flexibilidade
+Quando é importante entregar resultados rapidamente
+Projetos com mudanças frequentes
+- Exemplo: Desenvolvimento de um aplicativo de delivery
+Entregas em pequenas versões
+Feedback dos usuários
+Melhorias contínuas
