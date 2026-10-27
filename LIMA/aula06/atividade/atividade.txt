@@ -1,0 +1,11 @@
+Cadastro de aluno
+- Nome
+- Email
+- Matrícula
+
+Cadastro de professor
+- Nome
+- Email
+- Disciplina
+
+2 tabelas (Aluno e professor)

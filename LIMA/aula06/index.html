@@ -1,23 +1,63 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dizer oi</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <main class="container">
-        <div class = "card">
-            <h1>Dizer Oi</h1>
-            <p>Digite seu nome para continuar</p>
-            <input type="text" id="nome" placeholder="Digite seu nome">
-            <button id="botao">
-                Dizer Oi
-            </button>
-            <h2 id="mensagem"></h2>
-        </div>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Cadastro</title>
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <main class="container">
+
+            <div class="card">
+                <h1>Cadastro</h1>
+                <p>Preencha os dados abaixo</p>
+
+                <input
+                    type="text"
+                    id="nome"
+                    placeholder="Nome"
+                >
+                <input
+                    type="email"
+                    id="email"
+                    placeholder="E-mail"
+                >
+                <input
+                    type="tel"
+                    id="telefone"
+                    placeholder="Telefone"
+                >
+                <button id="salvar">
+                    Salvar
+                </button>
+            </div>
+
+            <div class="card tabela-container">
+                <h2>Cadastros</h2>
+                <table>
+                    
+                    <thead>
+                        <tr>
+                            <th>Nome</th>
+                            <th>E-mail</th>
+                            <th>Telefone</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="tabela">
+
+                    </tbody>
+
+                </table>
+            </div>
+
+        </main>
         <script src="script.js"></script>
-    </main>
-</body>
+
+    </body>
 </html>
